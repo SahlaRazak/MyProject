@@ -8,35 +8,31 @@ The dataset contains 11,251 records and 15 features, including customer demograp
 
 * Data Collection
 
-* Imported the Diwali Sales dataset from Kaggle.
+   * Imported the Diwali Sales dataset from Kaggle.
 
-Loaded the dataset into a Pandas DataFrame.
+   * Loaded the dataset into a Pandas DataFrame.
 
-Data Understanding
+* Data Understanding
 
-Checked dataset shape, columns, and data types.
+* Checked dataset shape, columns, and data types.
 
-Identified missing values and inconsistencies.
+* Identified missing values and inconsistencies.
 
-Data Cleaning
+* Data Cleaning
 
-Removed unnecessary columns.
+* Removed unnecessary columns.
 
-Handled missing values (e.g., dropped null values in Amount).
+* Handled missing values (e.g., dropped null values in Amount).
 
-Converted data types (e.g., Amount to integer).
+* Checked and handled duplicate records.
 
-Checked and handled duplicate records.
+# Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA)
-
-Performed univariate analysis (Gender, Age Group, Occupation, State, Product Category).
-
-Conducted multivariate analysis (Age vs Spending, Orders vs Amount).
+Performed univariate analysis,bivarate analysis,and multivarate analysis
 
 Generated summary statistics.
 
-Data Visualization
+# Data Visualization
 
 Created bar charts, count plots, boxplots, and scatter plots.
 
