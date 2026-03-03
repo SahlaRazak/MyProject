@@ -14,70 +14,74 @@ The dataset contains 11,251 records and 15 features, including customer demograp
 
 * Data Understanding
 
-* Checked dataset shape, columns, and data types.
+   * Checked dataset shape, columns, and data types.
 
-* Identified missing values and inconsistencies.
+   * Identified missing values and inconsistencies.
 
 * Data Cleaning
 
-* Removed unnecessary columns.
+   * Removed unnecessary columns.
 
-* Handled missing values (e.g., dropped null values in Amount).
+   * Handled missing values (e.g., dropped null values in Amount).
 
-* Checked and handled duplicate records.
+   * Checked and handled duplicate records.
+
+   * Drop Unwanted columns
+
+   * Created derived columns
 
 # Exploratory Data Analysis (EDA)
 
-Performed univariate analysis,bivarate analysis,and multivarate analysis
+   * Performed univariate analysis,bivarate analysis,and multivarate analysis
 
-Generated summary statistics.
+   * Generated summary statistics.
 
 # Data Visualization
 
-Created bar charts, count plots, boxplots, and scatter plots.
+   * Created bar charts, count plots, boxplots, and scatter plots.
 
-Built a correlation heatmap to analyze relationships between numerical variables.
+   * Built a correlation heatmap to analyze relationships between numerical variables.
 
-Insight Generation
+   * Insight Generation
 
-Identified high-spending customer segments.
+   * Identified high-spending customer segments.
 
-Analyzed top-performing states and product categories.
+   * Analyzed top-performing states and product categories.
 
-Evaluated customer purchasing behavior patterns.
+   * Evaluated customer purchasing behavior patterns.
 
-Business Recommendations
+   * Business Recommendations
 
-Suggested strategies to increase average order value.
+   * Suggested strategies to increase average order value.
 
-Proposed segmentation-based marketing approaches.
+   * Proposed segmentation-based marketing approaches.
 
 # 🛠 Tools & Technologies Used
 
-Python – Programming language used for analysis
+   * Python – Programming language used for analysis
 
-Pandas – Data manipulation and preprocessing
+   * Pandas – Data manipulation and preprocessing
 
-NumPy – Numerical operations
+   * NumPy – Numerical operations
 
-Matplotlib – Data visualization
+   * Matplotlib – Data visualization
 
-Seaborn – Statistical data visualization
+   * Seaborn – Statistical data visualization
 
-Jupyter Notebook – Interactive analysis environment
+   * Jupyter Notebook – Interactive analysis environment
 
-Kaggle Dataset – Source of the Diwali Sales data
+   * Kaggle Dataset – Source of the Diwali Sales data
 
 # 💎 Value of the Project
 
 This project demonstrates practical data analytics skills and provides real-world business insights. The key value includes:
 
-📊 Understanding customer buying behavior during festive seasons
+   📊 Understanding customer buying behavior during festive seasons
 
-🎯 Identifying target customer segments
+   🎯 Identifying target customer segments
 
-📈 Helping businesses optimize marketing strategies
+   📈 Helping businesses optimize marketing strategies
 
-💰 Improving revenue generation through data-driven decisions
+   💰 Improving revenue generation through data-driven decisions
 
-🧠 Strengthening hands-on experience in Exploratory Data Analysis (EDA)
+   🧠 Strengthening hands-on experience in Exploratory Data Analysis (EDA)
