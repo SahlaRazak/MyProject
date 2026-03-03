@@ -6,9 +6,9 @@ The dataset contains 11,251 records and 15 features, including customer demograp
 
 # 🔑 Key Steps Performed
 
-Data Collection
+* Data Collection
 
-Imported the Diwali Sales dataset from Kaggle.
+* Imported the Diwali Sales dataset from Kaggle.
 
 Loaded the dataset into a Pandas DataFrame.
 
