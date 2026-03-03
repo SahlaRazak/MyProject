@@ -1,10 +1,10 @@
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents an exploratory data analysis (EDA) of a Diwali sales dataset to uncover customer purchasing patterns, spending behavior, and key business insights during the festive season.
 
 The dataset contains 11,251 records and 15 features, including customer demographics (Age, Gender, Occupation, State), product categories, number of orders, and purchase amount. The goal of this project is to analyze the data, visualize trends, and generate actionable insights that can help businesses improve festive sales strategies.
 
-🔑 Key Steps Performed
+# 🔑 Key Steps Performed
 
 Data Collection
 
@@ -56,7 +56,7 @@ Suggested strategies to increase average order value.
 
 Proposed segmentation-based marketing approaches.
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 Python – Programming language used for analysis
 
@@ -72,7 +72,7 @@ Jupyter Notebook – Interactive analysis environment
 
 Kaggle Dataset – Source of the Diwali Sales data
 
-💎 Value of the Project
+# 💎 Value of the Project
 
 This project demonstrates practical data analytics skills and provides real-world business insights. The key value includes:
 
